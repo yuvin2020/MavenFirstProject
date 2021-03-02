@@ -13,7 +13,5 @@ public class MavenFirstClass
 		driver.get("https://google.co.in");
 		
 		System.out.println("Browser is launched");
-
 	}
-
 }
